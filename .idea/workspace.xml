@@ -2,85 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7522fb7-b098-446d-bd8c-fb5a91c33a53" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/web_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lev_Course_Work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lev_Course_Work.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/command/ChangeApartmentCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/command/Command.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/command/CommandFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/command/CreateApartmentCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/command/DeleteCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/command/EditCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/command/GoToApartmentCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/command/LoginCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/command/LogoutCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/command/MainCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/command/RegisterCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/command/SearchCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/entitiy/Apartment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/entitiy/Parameter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/entitiy/Site.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/entitiy/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/servlets/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/change_apartment.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/create_apartment.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/go_to_apartment.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/main.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/register.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/search.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lev_Course_Work/command/ChangeApartmentCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lev_Course_Work/command/Command.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lev_Course_Work/command/CommandFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lev_Course_Work/command/CreateApartmentCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lev_Course_Work/command/DeleteCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lev_Course_Work/command/EditCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lev_Course_Work/command/GoToApartmentCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lev_Course_Work/command/LoginCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lev_Course_Work/command/LogoutCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lev_Course_Work/command/MainCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lev_Course_Work/command/RegisterCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lev_Course_Work/command/SearchCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lev_Course_Work/entitiy/Apartment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lev_Course_Work/entitiy/Parameter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lev_Course_Work/entitiy/Site.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lev_Course_Work/entitiy/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lev_Course_Work/servlets/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/ChangeApartmentCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/Command.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/CommandFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/CreateApartmentCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/DeleteCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/EditCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/GoToApartmentCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/LoginCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/LogoutCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/MainCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/RegisterCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/SearchCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entitiy/Apartment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entitiy/Parameter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entitiy/Site.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entitiy/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/servlets/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/change_apartment.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/create_apartment.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/go_to_apartment.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/main.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/register.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/search.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,5 +41,16 @@
       <updated>1600283047265</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
